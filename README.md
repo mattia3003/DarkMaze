@@ -1,6 +1,6 @@
 # DarkMaze
 Dark Maze is a Java project, aimed at developing basic Java experience with a simple UI.
-It was created for the subject TDT4100 Objectorianted Programming, at NTNU.
+It was created for the subject TDT4100 Object oriented Programming, at NTNU.
 
 Project utilizes Java, JavaFX and JUnit5. It is built with Maven.
 
